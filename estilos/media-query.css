@@ -10,6 +10,10 @@
         width: 80vw;
     }
 
+    div#formulario h1{
+        padding-top: 100px;
+    }
+
     section#login > div#imagem{
         float: left;
         width: 35%;
@@ -35,6 +39,10 @@
 
     section#login{
         width: 950px;
+    }
+
+    div#formulario h1{
+        padding-top: 100px;
     }
 
     section#login > div#imagem{
